@@ -1,0 +1,17 @@
+C:\Users\khalil\source\repos\Dict\Dict\bin\Debug\Dict.exe
+C:\Users\khalil\source\repos\Dict\Dict\bin\Debug\Dict.pdb
+C:\Users\khalil\source\repos\Dict\Dict\obj\Debug\Dict.Form1.resources
+C:\Users\khalil\source\repos\Dict\Dict\obj\Debug\Dict.Properties.Resources.resources
+C:\Users\khalil\source\repos\Dict\Dict\obj\Debug\Dict.csproj.GenerateResource.cache
+C:\Users\khalil\source\repos\Dict\Dict\obj\Debug\Dict.exe
+C:\Users\khalil\source\repos\Dict\Dict\obj\Debug\Dict.pdb
+C:\Users\khalil\source\repos\Dict\Dict\obj\Debug\Dict.Forms.formadmin.resources
+C:\Users\khalil\source\repos\Dict\Dict\obj\Debug\Dict.Forms.Adminmenu.resources
+C:\Users\khalil\source\repos\Dict\Dict\obj\Debug\Dict.Forms.Dictionnaire.resources
+C:\Users\khalil\source\repos\Dict\Dict\obj\Debug\Dict.csprojAssemblyReference.cache
+C:\Users\khalil\source\repos\Dict\Dict\obj\Debug\Dict.Forms.Setting.resources
+C:\Users\khalil\source\repos\Dict\Dict\obj\Debug\Dict.Forms.History.resources
+C:\Users\khalil\source\repos\Dict\Dict\obj\Debug\Dict.Forms.addword.resources
+C:\Users\khalil\source\repos\Dict\Dict\obj\Debug\Dict.Forms.adduser.resources
+C:\Users\khalil\source\repos\Dict\Dict\obj\Debug\Dict.Forms.modifword.resources
+C:\Users\khalil\source\repos\Dict\Dict\obj\Debug\Dict.Forms.deleteword.resources
